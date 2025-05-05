@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pandas
+python-docx
+transformers
+torch
+python-multipart
